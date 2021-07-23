@@ -45,6 +45,8 @@ than a full supply of rockets...
     60
     >>> p.weapon(7, 0)
     0
-    >>> p.password()
-    '00000U20'
+    >>> g.level(6)
+    6
+    >>> g.password()
+    'A0000U2A'
 

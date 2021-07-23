@@ -1,1 +1,6 @@
+*.pyc
 JurassicParkMegadrive/__pycache__
+JurassicParkMegadrive.egg-info/
+build/
+dist/
+

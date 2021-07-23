@@ -1,1 +1,1 @@
-from JurassicParkPasswordGenerator import JurassicParkPasswordGenerator
+from . import JurassicParkPasswordGenerator
